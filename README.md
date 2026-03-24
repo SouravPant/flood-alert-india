@@ -92,10 +92,22 @@ flood-alert-india/
 
 ---
 
+## 📸 Application Showcase
+
+Here are some captured previews of the system in action:
+
+**1. Live Risk Dashboard**
+![Main Dashboard](docs/1_main_dashboard.png)
+
+**2. Authority Incident Manager**
+![Admin Dashboard](docs/2_admin_dashboard.png)
+
+---
+
 ## 🔑 Authority Access
 - **Role**: Authorized Personnel
 - **Gate**: Admin Dashboard
-- **Credential**: Contact the project administrator for access.
+- **Credential**: *(Stored securely in environment)* (Protected by secure Backend Hashing)
 
 ---
 
