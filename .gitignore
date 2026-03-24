@@ -1,0 +1,11 @@
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+.env
+dist/
+node_modules/
+.DS_Store
+flood_alert.db
+flood_alert.db-shm
+flood_alert.db-wal
